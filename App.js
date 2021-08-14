@@ -4,6 +4,8 @@ import { Header } from 'react-native-elements';
 import db from './localdb';
 import PhonicSoundButton from './components/PhonicSoundButton';
 
+
+
 export default class App extends React.Component {
   constructor() {
     super();
